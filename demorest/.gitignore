@@ -1,0 +1,6 @@
+*.sqlite3
+../.idea/
+../.idea/inspectionProfiles/
+demorest/__pycache__/
+cars/migrations/*
+cars/__pycache__/
